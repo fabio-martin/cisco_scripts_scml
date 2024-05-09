@@ -1,0 +1,4 @@
+SQLAlchemy
+configparser
+pexpect
+mysql-connector-python
